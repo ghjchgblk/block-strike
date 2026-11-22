@@ -1,0 +1,13 @@
+{
+  "name": "block-strike",
+  "version": "1.0.0",
+  "description": "方塊突擊 Block Strike：可以和真人加好友、組隊對戰的方塊槍戰遊戲",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

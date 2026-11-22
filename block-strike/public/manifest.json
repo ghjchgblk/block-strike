@@ -1,0 +1,16 @@
+{
+  "name": "方塊突擊 Block Strike",
+  "short_name": "方塊突擊",
+  "description": "和朋友組隊的方塊槍戰遊戲",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#0b0e16",
+  "theme_color": "#0b0e16",
+  "lang": "zh-TW",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
